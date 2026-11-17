@@ -1,0 +1,7 @@
+{
+  "name": "single-school-admin-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Single-school portal with administrator, teacher, and parent roles",
+  "scripts": { "start": "node server.js" }
+}
